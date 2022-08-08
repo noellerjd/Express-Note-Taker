@@ -1,5 +1,9 @@
 # Note-Taker
 
+![image](https://user-images.githubusercontent.com/50307506/183323694-5ec34d47-1d5a-4688-9b3c-3f29cb4994ee.png)
+![image](https://user-images.githubusercontent.com/50307506/183323747-d640bea8-d788-443f-b01b-c0f7e1dd898c.png)
+
+
 ## Description
 
 My motivation behind this project was to work on creating a way to more easily read notes.
